@@ -1,10 +1,8 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/5a55d1dc-37b9-4c71-9f17-5691a05a3be6" alt="1000006429-Edit">
-</div>
+
 
 # Bad Rock Disc Golf
-
-![Workflow Badge Placeholder](https://img.shields.io/badge/Workflow-Coming%20Soon-blue)
+[![Main Workflow](https://github.com/Bad-Rock-Disc-Golf/BadRockDiscGolf/actions/workflows/main.yml/badge.svg)](https://github.com/Bad-Rock-Disc-Golf/BadRockDiscGolf/actions/workflows/main.yml) |
+[![Development Workflow](https://github.com/Bad-Rock-Disc-Golf/BadRockDiscGolf/actions/workflows/development.yml/badge.svg)](https://github.com/Bad-Rock-Disc-Golf/BadRockDiscGolf/actions/workflows/development.yml)
 
 Welcome to the **Bad Rock Disc Golf** organization! We are dedicated to maintaining a premier disc golf course in the beautiful mountains of Thompson Falls, Montana, and providing players with all the information they need to enjoy their visit.
 
