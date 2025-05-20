@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/5a55d1dc-37b9-4c71-9f17-5691a05a3be6" alt="1000006429-Edit">
+</div>
 
 # Bad Rock Disc Golf
 [![Main Workflow](https://github.com/Bad-Rock-Disc-Golf/BadRockDiscGolf/actions/workflows/main.yml/badge.svg)](https://github.com/Bad-Rock-Disc-Golf/BadRockDiscGolf/actions/workflows/main.yml) |
@@ -6,11 +8,15 @@
 
 Welcome to the **Bad Rock Disc Golf** organization! We are dedicated to maintaining a premier disc golf course in the beautiful mountains of Thompson Falls, Montana, and providing players with all the information they need to enjoy their visit.
 
+
+[![Youtube](https://img.shields.io/badge/Youtube-282828?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BadRockDG)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/profile.php?id=61575828504491)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/badrockdg)
+[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/badrockdg)
 ---
 
 ## About Us
-Bad Rock Disc Golf is a non-profit organization focused on supporting the disc golf community in Thompson Falls. Our mission is to provide a high-quality disc golf experience while fostering a welcoming environment for players of all skill levels. Through our informational website, we aim to make it easy for anyone to explore, play, and appreciate the sport in this stunning mountain setting.
-
+Bad Rock Disc Golf is a non-profit 501(c)(3) organization focused on supporting the disc golf community in Thompson Falls. Our mission is to provide a high-quality disc golf experience while fostering a welcoming environment for players of all skill levels. Through our informational website, we aim to make it easy for anyone to explore, play, and appreciate the sport in this stunning mountain setting.
 ---
 
 ## Projects
@@ -46,8 +52,7 @@ We’re always looking for passionate contributors to help us grow and improve! 
 
 Have questions, suggestions, or just want to say hi? Feel free to reach out:
 - **Email**: [contact@badrockdiscgolf.com](mailto:contact@badrockdiscgolf.com)
-- **GitHub Discussions**: [Join the conversation](https://github.com/orgs/Bad-Rock-Disc-Golf/discussions)
-
+- **GitHub Discussions**: [![Join the Discussion](https://img.shields.io/badge/Discussions-Join%20Now-blue?style=for-the-badge&logo=github)](https://github.com/orgs/Bad-Rock-Disc-Golf/discussions)
 ---
 
 Thank you for being a part of our journey to make Bad Rock Disc Golf a cherished destination for players everywhere. We can’t wait to see you on the course!
